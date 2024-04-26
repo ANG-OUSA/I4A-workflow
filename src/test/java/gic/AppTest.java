@@ -15,6 +15,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertEquals(2, 4-1*2);
+        assertTrue( true );
     }
 }
